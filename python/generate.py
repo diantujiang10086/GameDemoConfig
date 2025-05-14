@@ -100,6 +100,7 @@ def generateSharp(tableName, headers):
     header:Header
 
     scriptLines.append('// The configuration generation file cannot be modified!\n')
+    scriptLines.append('using Unity.Mathematics;\n')
     scriptLines.append('public partial class {} : IConfig'.format(tableName))
     scriptLines.append('{')
 
