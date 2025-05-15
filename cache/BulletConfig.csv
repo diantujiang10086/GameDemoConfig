@@ -1,7 +1,7 @@
-id	position	scale	rotation	displayId	moveAgent
-int	float3	float3	float3	int	string
-					
-1		1#1#1			
-		1#1#1			
-		1#1#1			
-		1#1#1			
+id	moveAgent	position	scale	rotation	displayId	moveSpeed
+int	string	float3	float3	float3	int	float
+						
+1	ForwardMove		1#1#1		2	10
+			1#1#1			
+			1#1#1			
+			1#1#1			
