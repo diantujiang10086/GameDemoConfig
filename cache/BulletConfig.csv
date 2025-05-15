@@ -1,4 +1,7 @@
-id	
-int	
-	
-1	
+id	position	scale	rotation	displayId	moveAgent
+int	float3	float3	float3	int	string
+					
+1		1#1#1			
+		1#1#1			
+		1#1#1			
+		1#1#1			
