@@ -1,7 +1,7 @@
-id	moveAgent	position	scale	rotation	displayId	moveSpeed	isAddCollider	isEnableColliderDetection	isCollisionDestory	layer	colliderLayer	colliderShape	offset	radius	size
-int	string	float3	float3	float3	int	float	bool	bool	bool	int	int	ColliderShape	float2	float	float2
-															
-1	ForwardMove	0#0#1	1#1#1		2	10	True	True	True	2	1	Circle		0.5	
-			1#1#1												
-			1#1#1												
-			1#1#1												
+id	moveAgent	position	scale	rotation	displayId	moveSpeed	buffs	isAddCollider	isEnableColliderDetection	isCollisionDestory	layer	colliderLayer	colliderShape	offset	radius	size
+int	string	float3	float3	float3	int	float	int[]	bool	bool	bool	int	int	ColliderShape	float2	float	float2
+																
+1	ForwardMove	0#0#1	1#1#1		2	10		True	True	True	2	1	Circle		0.5	
+			1#1#1													
+			1#1#1													
+			1#1#1													
