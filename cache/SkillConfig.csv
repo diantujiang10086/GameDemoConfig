@@ -1,4 +1,4 @@
 id	templateAgent	cdTime	args0	args1	args2	args3	args4	args5	args6	args7	args8	args9	args10
 int	string	float	string	string	string	string	string	string	string	string	string	string	string
 													
-1	FanShotBulletSkill	0	1	5	-90	45	1	1					
+1	FanShotBulletSkill	0	1	50	-90	360	1	1					
