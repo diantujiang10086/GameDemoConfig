@@ -1,5 +1,5 @@
 id	templateAgent	startDelayTime	duration	tickInterval	buffType	canStack	canRefresh	maxStacks	args0	args1	args2	args3	args4	args5	args6	args7	args8	args9	args10
-int	string	float	float	float	int	bool	bool	int	string	string	string	string	string	string	string	string	string	string	string
+int	string	FP	FP	FP	int	bool	bool	int	string	string	string	string	string	string	string	string	string	string	string
 																			
 1	CastSkillBuff			0.05					1										
 2	BulletBuff																		
