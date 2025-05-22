@@ -1,7 +1,7 @@
 id	position	scale	angle	displayId	moveSpeed	rotationSpeed	skills	buffs	isAddCollider	isEnableColliderDetection	isCollisionDestory	layer	colliderLayer	colliderShape	offset	radius	size
 int	TSVector	FP	FP	int	FP	FP	int[]	int[]	bool	bool	bool	int	int	ColliderShape	TSVector2	FP	TSVector2
 																	
-1		1		1	1	1	2		True	True	False	1	4	Circle		0.5	
+1		1		1	1	1	2#3		True	True	False	1	4	Circle		0.5	
 2		1		2	1	1											
 3		1		3	1	1	1	1	True	True	False	3	4	Circle		0.5	
 4		1		4	1	1			True	True	False	3	4	Circle		0.5	
