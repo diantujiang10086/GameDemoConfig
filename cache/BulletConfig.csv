@@ -1,7 +1,7 @@
 id	moveAgent	position	scale	angle	displayId	moveSpeed	buffs	isAddCollider	isEnableColliderDetection	isCollisionDestory	layer	colliderLayer	colliderShape	offset	radius	size	args0	args1	args2	args3	args4	args5	args6	args7	args8	args9	args10
 int	string	TSVector	FP	FP	int	FP	int[]	bool	bool	bool	int	int	ColliderShape	TSVector2	FP	TSVector2	string	string	string	string	string	string	string	string	string	string	string
 																											
-1	ForwardMove	0#0#1	1		2	10		True	False	True	2	1	Circle		0.5												
+1	ForwardMove	0#0#1	0.5		5	10		True	False	True	2	1	Circle		0.5												
 			1																								
 			1																								
 			1																								

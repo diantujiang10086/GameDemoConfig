@@ -1,7 +1,8 @@
-id	materialPath	materialType	atlasPath	animationIndex																		
-int	string	MaterialType	string	int																		
-																						
-1	Material/Material	Atlas	Girls	3																		
-2	Material/Material 1	Sprine																				
-3	Material/Material 2	Sprine																				
-4	Material/Material 3	Sprine																				
+id	meshPath	materialPath	materialType	atlasPath	animationIndex																		
+int	string	string	MaterialType	string	int																		
+																							
+1		Material/Material	Atlas	Girls	3																		
+2		Material/Material 1	Sprine																				
+3		Material/Material 2	Sprine																				
+4		Material/Material 3	Sprine																				
+5	texture/导出/action/action_Mesh	Material/Material 4	Spine																				
