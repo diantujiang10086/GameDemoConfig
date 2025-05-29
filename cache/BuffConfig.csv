@@ -2,4 +2,6 @@ id	templateAgent	startDelayTime	duration	tickInterval	buffType	canStack	canRefre
 int	string	FP	FP	FP	int	bool	bool	int	string	string	string	string	string	string	string	string	string	string	string
 																			
 1	CastSkillBuff			0.05					1										
-2	BulletBuff																		
+2	BulletBuff			0.05					1	10	2	0	360	2	1				
+3	AttrBuff								Hp	10									
+4	AttrBuff								MoveSpeed	10									
